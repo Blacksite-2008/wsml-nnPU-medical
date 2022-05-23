@@ -1,4 +1,4 @@
-# wsml-pu-medical
+# wsml-nnPU-medical
 
 Datasets:
 
